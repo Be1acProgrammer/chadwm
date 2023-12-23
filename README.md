@@ -127,14 +127,12 @@ eww open eww
 <details>
 
 
+# Patches
 
-
-
-
-<patches>
+<details>
 <summary><b>Patches</b></summary>
 
-# Patches
+# The Patches
 
 - barpadding 
 - bottomstack
@@ -156,4 +154,3 @@ eww open eww
 - shiftview
 
 <details>
-
