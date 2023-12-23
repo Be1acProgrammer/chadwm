@@ -114,12 +114,21 @@ eww open eww
 
 - It could be a good idea to add these lines to your autostart file, located at ~/.config/chadwm/scripts/run.sh
 
+<details>
+<summary><b>Credits</b></summary>
+
 # Credits
 
 - HUGE THANKS to [eProTaLT83](https://www.reddit.com/user/eProTaLT83). I wanted certain features in dwm like tabbar in monocle, tagpreview etc and he implemented my ideas and created patches for me! I can't even count the number of times he has helped me :v
 - @fitrh helped with [colorful tag patch](https://github.com/fitrh/dwm/issues/1)
 - [6gk](https://github.com/6gk/fet.sh), eww's pure posix fetch functions taken from here
 - [mafetch](https://github.com/fikriomar16/mafetch), modified version of this was used as fetch in the screenshots
+
+<details>
+
+
+<details>
+<summary><b>Patches</b></summary>
 
 # Patches
 
@@ -141,3 +150,5 @@ eww open eww
 - winicon
 - [preserveonrestart](https://github.com/PhyTech-R0/dwm-phyOS/blob/master/patches/dwm-6.3-patches/dwm-preserveonrestart-6.3.diff). This patch doesnt let all windows mix up into tag 1 after restarting dwm.
 - shiftview
+<details>
+
