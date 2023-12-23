@@ -126,10 +126,6 @@ eww open eww
 
 <details>
 
-
-# Patches
-
-<details>
 <summary><b>Patches</b></summary>
 
 # The Patches
