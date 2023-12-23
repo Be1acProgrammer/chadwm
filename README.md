@@ -152,5 +152,3 @@ eww open eww
 - winicon
 - [preserveonrestart](https://github.com/PhyTech-R0/dwm-phyOS/blob/master/patches/dwm-6.3-patches/dwm-preserveonrestart-6.3.diff). This patch doesnt let all windows mix up into tag 1 after restarting dwm.
 - shiftview
-
-<details>
