@@ -129,7 +129,9 @@ eww open eww
 
 
 
-<details>
+
+
+<patches>
 <summary><b>Patches</b></summary>
 
 # Patches
